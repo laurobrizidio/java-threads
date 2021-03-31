@@ -1,4 +1,4 @@
-package com.java.lauro.thread02;
+package com.java.banheiro.thread02;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.java.lauro.thread01;
+package com.java.banheiro.thread01;
 
 public class TarefaMultiplicacao implements Runnable{
     @Override

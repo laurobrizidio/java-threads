@@ -1,4 +1,4 @@
-package com.java.lauro.threadsync;
+package com.java.banheiro.threadsync;
 
 public class FazNumero02 implements Runnable {
 
